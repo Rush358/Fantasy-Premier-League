@@ -1,4 +1,4 @@
-# Fantasy-Premier-League Linear Optimisation Tool
+# Fantasy Premier League Linear Optimisation Tool
 
 ### How the tool functions
 *   The FPL Team Optimiser is a linear optimisation tool that aims to maximise the points returned by 11 starting players subject to budget and positional constraints. The objective function is the combination of each FPL player's mean points scored over the past gameweeks.
